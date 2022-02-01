@@ -38,3 +38,18 @@ code {
   border-radius: 10px;
   font-size: 20px;
 }
+
+.input_provera {
+  width: 300px;
+  height: 30px;
+  padding-top: -5px;
+  font-size: 25px;
+}
+
+.dugme_proveri {
+  height: 50px;
+  width: 180px;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-left: 15px;
+}
